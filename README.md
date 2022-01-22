@@ -1,2 +1,3 @@
 # AIML
-consists of Artificial Intelligence and Machine learning algorithms 
+consists of Artificial Intelligence and Machine learning algorithm programs
+
